@@ -1,4 +1,5 @@
-//Constants
+// Procedure described here, http://pdf.directindustry.com/pdf/duplomatic-automation/bsv-n/82617-219737-_16.html
+// Constants
 
 #define TURRET_MOVE_PIN 2
 #define STROBE_SIGNAL_STATUS_PIN 3
